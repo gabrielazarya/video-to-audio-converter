@@ -1,0 +1,6 @@
+Install "pip moviepy" dulu dengan cara
+masuk ke VS Code, klik new terminal
+kalau sudah ketik "pip install moviepy"
+tunggu, dan baru bisa di Run
+
+Saya Gabriel Azarya, Terimakasih
